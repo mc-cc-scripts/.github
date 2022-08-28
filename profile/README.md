@@ -1,4 +1,9 @@
 # Script Manager
+## Install
+Download SCM with the following command:
+```
+pastebin run 1kKZ8zTS
+```
 ## Naming Conventions
 Libraries and Programs should each be created as an extra repository.
 
