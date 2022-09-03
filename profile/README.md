@@ -27,11 +27,3 @@ The repository would be named `test-lib` and it would contain at least the follo
 ```
 test.lua
 ```
-
-### Requires
-If you want to load a library within a program and keep it updated through SCM, then you can do that with the following notation:
-```
---@requires testLibrary
-require("testLibrary")
-```
-The comment tells SCM to look for the library and update it. If it's not already installed, then it will try to download it.
