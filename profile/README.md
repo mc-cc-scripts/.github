@@ -31,9 +31,7 @@ test.lua
 ### Requires
 If you want to load a library within a program and keep it updated through SCM, then you can do that with the following notation:
 ```
---@require testLibrary
-require("./libs/testLibrary")
+--@requires testLibrary
+require("testLibrary")
 ```
 The comment tells SCM to look for the library and update it. If it's not already installed, then it will try to download it.
-
-**Note:** The require function should always start with `./libs/` to make sure the path is correct.
