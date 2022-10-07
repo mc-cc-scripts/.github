@@ -12,3 +12,4 @@ pastebin run 1kKZ8zTS
   - [Configuration](https://github.com/mc-cc-scripts/script-manager/wiki/Configuration)
   - [Examples](https://github.com/mc-cc-scripts/script-manager/wiki/Examples)
   - [Naming Conventions](https://github.com/mc-cc-scripts/script-manager/wiki/Naming-Conventions)
+- [Discussions (Questions / Ideas / ...)](https://github.com/mc-cc-scripts/script-manager/discussions)
